@@ -1,0 +1,14 @@
+{
+  "name": "dbsharding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M B, Megha",
+  "license": "ISC",
+  "dependencies": {
+    "node-localstorage": "^2.2.1"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "microservicesintro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tickets.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M B, Megha",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "node-localstorage": "^2.2.1",
+    "pm2": "^5.1.2"
+  }
+}

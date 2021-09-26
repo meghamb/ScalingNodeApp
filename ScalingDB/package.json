@@ -1,0 +1,15 @@
+{
+  "name": "scalingdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M B, Megha",
+  "license": "ISC",
+  "dependencies": {
+    "node-localstorage": "^2.2.1",
+    "pm2": "^5.1.2"
+  }
+}
